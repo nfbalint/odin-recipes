@@ -1,10 +1,21 @@
+body {
+    background-color: teal;
+}
+
 h1 {
+    color: aquamarine;
     font-size: 60px;
     text-align: center;
 }
 
 h2 {
     text-align: center;
+}
+
+h3 {
+    color: aquamarine;
+    text-align: left;
+    margin-left: 100px;
 }
 
 img {
@@ -16,23 +27,29 @@ img {
 }
 
 .description {
+    color: aquamarine;
     text-align: left;
     margin-left: 100px;
 }
 
 p {
-
-text-align: center;
+    color: aqua;
+    font-size: 16px;
+    text-align: left;
+    margin-left: 100px;
+    width: 850px;
 }
 
 ul {
-    margin-left: auto;
+    color: aqua;
+    margin-left: 110px;
     margin-right: auto;
     width: 150px;
 }
 
 ol {
-    margin-left: auto;
+    color: aqua;
+    margin-left: 110px;
     margin-right: auto;
     width: 500px;
 }

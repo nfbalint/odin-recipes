@@ -2,9 +2,18 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+body {
+    background-color: teal;
+}
+
 h1 {
+    color: aqua;
     font-size: 60px;
     text-align: center;
+}
+
+a {
+color: aquamarine;
 }
 
 ul {
